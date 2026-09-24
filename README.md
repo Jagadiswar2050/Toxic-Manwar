@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Jagadiswar
+# 👋 Hi, I'm Thallapaka Jagadiswar
 
-### `Toxic-Manwar` | B.Tech CSE Student | Developer | AI Enthusiast
+### `Jagasiswar2050` | B.Tech CSE Student | Developer | AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Developer+in+Progress;Full-Stack+Web+Developer;Python+%26+Data+Science+Learner;UI%2FUX+Enthusiast;Problem+Solver;Building+Real-World+Projects" alt="Typing SVG" />
 
