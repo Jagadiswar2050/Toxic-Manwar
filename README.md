@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Thallapaka%20Jagadiswar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://jagadiswar2050.github.io/Thallapaka-jagadiswar/">
+<a href="https://jagadiswar2050.github.io/jagadiswar2050-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
